@@ -5,7 +5,7 @@
 3.	安装Jemter
 下载地址：http://jmeter.apache.org/download_jmeter.cgi 
 4.	创建线程组: 
-![]( https://github.com/laozhuangHogon/geodeconcurrencytest/geodeconcurrencytest/images/pic1.png)
+![]( https://github.com/laozhuangHogon/geodeconcurrencytest/images/pic1.png)
 5.	配置线程
  
 
